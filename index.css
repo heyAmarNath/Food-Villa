@@ -1,0 +1,37 @@
+body {
+    background-color: azure;
+    margin: 20px;
+    padding: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+    border: 2px solid gold;
+}
+
+.nav-list>ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.nav-list>ul>li {
+    padding: 10px;
+}
+
+.restraunt-card{
+    border: 2px solid goldenrod;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+.restraunt-card>img{
+    width: 100%;
+
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+}
