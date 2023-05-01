@@ -20,13 +20,13 @@ body {
     padding: 10px;
 }
 
-.restraunt-card{
+.restaurant-card{
     border: 2px solid goldenrod;
     width: 200px;
     padding: 10px;
     margin: 10px;
 }
-.restraunt-card>img{
+.restaurant-card>img{
     width: 100%;
 
 }
